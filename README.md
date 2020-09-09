@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) . Check this ->[preview of project here](https://airbnb-clone-c5896.web.app/ ).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) . Check this -> [final completed website](https://airbnb-clone-c5896.web.app/ ).
 
 ## Available Scripts
 
